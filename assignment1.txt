@@ -1,0 +1,10 @@
+$mkdir assignment1
+$cd assignment1
+$assignment1>nano code.txt
+$assignment1>nano log.txt
+$assignment1>nano output.txt
+$assignment1>git init
+$assignment1>git add .
+$assignment1>git commit -m "initial commit"
+$assignment1>git remote add origin https://github.com/nvharish/git-course.git
+$assignment1>git push origin master
